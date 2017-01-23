@@ -1,14 +1,9 @@
-## Welcome to Waterlemon Pages
+# HuxBlog Boilerplate
 
-#### 一个简单的页面，来记录日常. [首页](https://iamwaterlemon.github.io)
+##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
 
+#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
 
-### 不知道说啥好呢
-```markdown
+#### [View Live Hux Blog &rarr;](http://huangxuan.me)
 
-print "hello world!"
-```
-## 接下来将会完善整个静态页面
-
-
-## 最后将写个服务器来实现动态的页面
+## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
