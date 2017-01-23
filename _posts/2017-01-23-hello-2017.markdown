@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "Welcome to waterlemon Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2017-01-23 20:00:00
+author:     "waterlemon"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah I am here. ”
+
+
+## 前言
+
+某天的突发奇想，就开始创立这个博客。这里的从创建到写日记并没有花太长的时间，感谢伟大的开源。
+
+
+---
+
+## 正文
+
+创建这个博客需要了解的知识有 
+#### github的基本操作 
+#### git的使用
+#### 简单了解html和web开发原理
+#### Markdown的使用
+
+其实，去了解的过程也是一个学习成长的过程。使用github也是一名developer需要掌握的技术，互联网有很多有趣的东西可以让我们去挖掘。
+
+
+
+## 后记
+
+感谢 github bootstrap jekyll 以及 Hux blog 的支持
+
+—— Waterlemon 后记于 2017.01
