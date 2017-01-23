@@ -4,7 +4,7 @@ title:      "Happy New Year！"
 subtitle:   "恭贺新禧"
 date:       2017-01-23
 author:     "waterlemon"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-happy-new-year.jpg"
 tags:
     - 新年快乐
     - Happy New Year
